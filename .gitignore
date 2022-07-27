@@ -1,0 +1,7 @@
+!./system/files/default
+!./system/files/default/*
+./system/files/contracts/*
+!./system/files/default
+!./system/files/default/*
+system/writable/*
+.env
