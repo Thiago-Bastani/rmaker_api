@@ -5,3 +5,4 @@
 !./system/files/default/*
 system/writable/*
 .env
+vendor/
